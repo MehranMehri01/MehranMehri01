@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehran</h1>
-<h3 align="center">a passionate front from iran</h3>
+<h3 align="center">front end developer</h3>
 
 <img align="right" alt="Mehran" width = "400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
